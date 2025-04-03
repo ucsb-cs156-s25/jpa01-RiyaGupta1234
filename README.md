@@ -1,9 +1,4 @@
-# STARTER-jpa01
-
-* TODO: Change the title of this README (above)
-  in the text `# STARTER-jpa01` above
-  to match the name of your repo, i. e., `jpa01-yourgithubid`, then delete
-  this TODO item.
+# jpa01-RiyaGupta1234
 
 * Link to my running app on Dokku:
   https://jpa01-riyagupta1234.dokku-06.cs.ucsb.edu
