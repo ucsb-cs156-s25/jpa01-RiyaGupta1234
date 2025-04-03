@@ -5,12 +5,10 @@
   to match the name of your repo, i. e., `jpa01-yourgithubid`, then delete
   this TODO item.
 
-* TODO: Correct the "deployed at" link to app on Dokku (below)
-  then delete this TODO.  Replace it with 
-  a link to your running app on Dokku, e.g.
-  https://jpa01-cgaucho.dokku-14.cs.ucsb.edu
+* Link to my running app on Dokku:
+  https://jpa01-riyagupta1234.dokku-06.cs.ucsb.edu
 
-Deployed at: https://jpa01-replace-me.dokku-xx.cs.ucsb.edu
+Deployed at: https://jpa01-riyagupta1234.dokku-06.cs.ucsb.edu
 
 
 # About this repo
